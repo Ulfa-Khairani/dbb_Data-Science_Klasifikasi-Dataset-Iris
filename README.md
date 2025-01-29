@@ -3,7 +3,7 @@
 <h2>Deskripsi Proyek</h2>
 
 Proyek ini bertujuan untuk membangun model klasifikasi yang memprediksi spesies 
-bunga iris (Setosa, Versicolor, Virginia) dengan menggunakan algirtma Random Forest. 
+bunga iris (Setosa, Versicolor, Virginia) dengan menggunakan algoritma Random Forest. 
 Dataset ini terbagi dalam empat fitur yaitu sepal length, sepal windth, petal length 
 dan petal windth yang membedakan tiga kelas bunga. 
 
