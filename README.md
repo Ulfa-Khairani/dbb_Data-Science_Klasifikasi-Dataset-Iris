@@ -1,4 +1,4 @@
-<h1>Klasifikasi Dataset Iris Dengan Algoritma Random Forest</h1>
+<h1>Machine Learning-Klasifikasi Dataset Iris dengan Algoritma Random Forest</h1>
 
 <h2>Deskripsi Proyek</h2>
 
@@ -25,4 +25,10 @@ Scikit-learn: Untuk mengimplementasikan algoritma Random Forest dan evaluasi mod
 NumPy: Untuk pemrosesan data numerik.
 
 Pandas: Untuk menangani dan memanipulasi data tabular.
+
+email    : upakhairani30@gmail.com
+linkedln : https://www.linkedin.com/in/ulfa-khairani
+
+#EDA #Machine Learning #Phyton
+
 
